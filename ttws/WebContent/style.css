@@ -1,0 +1,44 @@
+body{
+	background: url("pics/bgsmall.jpeg") no-repeat;
+	background-size: cover; 
+	padding-top: 10px;
+}
+
+.logo{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.centerBlock{
+	margin: 0 auto;
+	display: block;
+}
+
+.centerButton{
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+}
+
+.whiteText{
+	color: white;
+}
+
+.spaceBlock{
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+.spaceBlockSmall{
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.tableBackground{
+	background-color: red;
+}
+
+.footerSpace{
+	padding-bottom: 350px;
+	padding-top: 350px;
+}
